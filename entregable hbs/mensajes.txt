@@ -1,0 +1,12 @@
+[	{
+		"author": "Juan",
+		"text": "Hola que tal",
+	},
+	{
+		"author": "Maria",
+		"text": "Bien y vos?",
+	},
+	{
+		"author": "Juan",
+		"text": "Me alegra",
+	}]
