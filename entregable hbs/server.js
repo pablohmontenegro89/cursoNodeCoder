@@ -147,8 +147,10 @@ httpServer.listen(PORT, () => console.log("servidor Levantado"));
 
 // knexSqlite3.schema
 // .createTable("Mensajes", function (table) {
-//   table.increments("author");
-//   table.string("text");
+//   table.increments("id");
+//   table.string("email");
+//   table.string("mensaje");
+//   table.string("fecha");
 // })
 // .then(function () {
 //   console.log("tablas creadas");
