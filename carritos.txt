@@ -1,27 +1,17 @@
 [
   {
     "id": 1,
-    "timeStamp": 1665341812950,
+    "timeStamp": 1667860201144,
     "productos": []
   },
   {
     "id": 2,
-    "timeStamp": 1665341812950,
+    "timeStamp": 1667860204263,
     "productos": []
   },
   {
-    "id": 4,
-    "timeStamp": 1665341823346,
-    "productos": []
-  },
-  {
-    "id": 5,
-    "timeStamp": 1665341823885,
-    "productos": []
-  },
-  {
-    "id": 6,
-    "timeStamp": 1665341826834,
+    "id": 3,
+    "timeStamp": 1667860275253,
     "productos": []
   }
 ]
